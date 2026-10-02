@@ -1,0 +1,11 @@
+{
+ "id": "dejavu",
+ "name": "Deja Vu",
+ "author": ["Eris"],
+ "description": "Obscures all (most) numbers in the game",
+ "prefix": "literally who cares this doesnt matter at all",
+ "main_file": "main.lua",
+ "priority": 0,
+ "version": "1.0.0",
+ "dependencies": ["Steamodded"]
+}

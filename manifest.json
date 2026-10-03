@@ -1,6 +1,6 @@
 {
     "name": "Deja_Vu",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/borb43/DejaVu",
     "description": "Hides most of the numbers from the game",
     "dependencies": [ "Steamodded-Steamodded-26.1002.0" ]
